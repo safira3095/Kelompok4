@@ -1,5 +1,5 @@
 body {
-    background: url(images/cemara1.jpg);
+    background: url(/Kelompok4/images/cemara1.jpg);
 }
 #tampilan{
     background-color: rgba(255, 255, 255, 0.5);
@@ -23,12 +23,12 @@ body {
     border-color: #181C14;
 }
 #menu{
-    background: #ECDFCC;
+    background-color: #ECDFCC;
     height: 22px;
     width: 1200px;
 }
 #kiri {
-    background: #B3E2A7;
+    background-color: #B3E2A7;
     height: 3300px;
     width: 1194.3px;
     float: left;
